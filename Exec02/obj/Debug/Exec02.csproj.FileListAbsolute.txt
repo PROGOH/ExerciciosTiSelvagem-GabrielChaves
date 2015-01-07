@@ -1,0 +1,5 @@
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec02\bin\Debug\Exec02.exe.config
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec02\bin\Debug\Exec02.exe
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec02\bin\Debug\Exec02.pdb
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec02\obj\Debug\Exec02.exe
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec02\obj\Debug\Exec02.pdb

@@ -1,0 +1,6 @@
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec09\bin\Debug\Exec09.exe.config
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec09\bin\Debug\Exec09.exe
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec09\bin\Debug\Exec09.pdb
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec09\obj\Debug\Exec09.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec09\obj\Debug\Exec09.exe
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec09\obj\Debug\Exec09.pdb

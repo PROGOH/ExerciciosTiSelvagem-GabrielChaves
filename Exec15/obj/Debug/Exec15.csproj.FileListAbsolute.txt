@@ -1,0 +1,5 @@
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec15\bin\Debug\Exec15.exe.config
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec15\bin\Debug\Exec15.exe
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec15\bin\Debug\Exec15.pdb
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec15\obj\Debug\Exec15.exe
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec15\obj\Debug\Exec15.pdb

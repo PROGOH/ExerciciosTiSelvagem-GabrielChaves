@@ -1,0 +1,6 @@
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec14\bin\Debug\Exec14.exe.config
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec14\bin\Debug\Exec14.exe
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec14\bin\Debug\Exec14.pdb
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec14\obj\Debug\Exec14.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec14\obj\Debug\Exec14.exe
+C:\Users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec14\obj\Debug\Exec14.pdb

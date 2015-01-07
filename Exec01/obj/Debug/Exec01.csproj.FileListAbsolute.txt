@@ -1,0 +1,4 @@
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec01\bin\Debug\Exec01.dll
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec01\bin\Debug\Exec01.pdb
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec01\obj\Debug\Exec01.dll
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec01\obj\Debug\Exec01.pdb

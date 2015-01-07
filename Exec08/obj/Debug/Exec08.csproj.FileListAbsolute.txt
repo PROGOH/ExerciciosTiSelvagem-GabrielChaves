@@ -1,0 +1,6 @@
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec08\bin\Debug\Exec08.exe.config
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec08\bin\Debug\Exec08.exe
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec08\bin\Debug\Exec08.pdb
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec08\obj\Debug\Exec08.csprojResolveAssemblyReference.cache
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec08\obj\Debug\Exec08.exe
+c:\users\gabriel.chaves\documents\visual studio 2013\Projects\TISelvagemExercicios\Exec08\obj\Debug\Exec08.pdb
